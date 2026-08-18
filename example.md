@@ -2,9 +2,8 @@
 
 ## Basic setup
 
-## Full setup
 
-Your code snippet
+## Full setup
 
 ```html
 <button id="open-chat-btn">Chat with us</button>
