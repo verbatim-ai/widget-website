@@ -3,9 +3,11 @@
 The[ Verbatim AI](https://www.verbatim-ai.com) Chatbot Widget is a drop-in AI assistant you can embed on any website with a single `<script>` tag. It connects to the Verbatim AI API, answers questions from your document corpora, and can show the source documents behind each answer (with page previews).
 This guide covers installation, configuration, and every available option. 
 
-[Verbatim AI](https://www.verbatim-ai.com/)  /  [Docs](https://verbatim-ai.gitbook.io/docs)
-
 > 🔥 You can see the widget in action in our [Demo Website](https://chemcorp.verbatim-ai.com/) https://chemcorp.verbatim-ai.com/
+
+Links to learn more
+- [Verbatim AI website](https://www.verbatim-ai.com/)
+- [Our docs](https://verbatim-ai.gitbook.io/docs)
 
 ---
 
