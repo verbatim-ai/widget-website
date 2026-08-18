@@ -1,8 +1,8 @@
 # Table of content
 
-* [User guide](README)
-* [Branding](branding)
-* [Examples](example)
-* [Staging mode](staging)
-* [Options](options)
-* [Troubleshooting](troubleshooting)
+* [User guide](README.md)
+* [Branding](branding.md)
+* [Examples](example.md)
+* [Staging mode](staging.md)
+* [Options](options.md)
+* [Troubleshooting](troubleshooting.md)
