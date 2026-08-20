@@ -1,7 +1,21 @@
 ## Examples
 
+<img src="assets/widget.webp">
+
 ## Basic setup
 
+```html
+<button id="open-chat-btn">Chat with us</button>
+<div id="verbatim-chatbot"></div>
+
+<script src="https://cdn.verbatim-ai.com/widget/chatbot/v1/chatbot-widget.iife.js"></script>
+<script>
+    ChatbotWidget.mountChatbotWidget("#verbatim-chatbot", {
+        accessToken: "YOUR_ACCESS_TOKEN",
+        corpusIds: ["YOUR_CORPUS_ID"]
+    });
+</script>
+```
 
 ## Full setup
 
@@ -48,14 +62,7 @@
 
     // Layout
     messageInputPosition: "bottom",
-
-    // Contextual behavior
-    pageContext: {
-      "/pricing": {
-        timer: 3000,
-        exec: ({ open }) => open.setIsOpen(true)
-      }
-    }
+      
   });
 </script>
 ```

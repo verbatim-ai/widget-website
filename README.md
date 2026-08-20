@@ -9,6 +9,9 @@ Links to learn more
 - [Verbatim AI website](https://www.verbatim-ai.com/)
 - [Our docs](https://verbatim-ai.gitbook.io/docs)
 
+
+<img src="assets/widget.webp">
+
 ---
 
 ## 1. Before you begin
