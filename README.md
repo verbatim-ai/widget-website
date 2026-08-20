@@ -8,6 +8,7 @@ This guide covers installation, configuration, and every available option.
 Links to learn more
 - [Verbatim AI website](https://www.verbatim-ai.com/)
 - [Our docs](https://verbatim-ai.gitbook.io/docs)
+- [GitHub repository](https://github.com/verbatim-ai/widget-website/tree/main)
 
 
 <img src="assets/widget.webp">

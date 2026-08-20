@@ -16,7 +16,7 @@
     });
 </script>
 ```
-
+See the [full code here](https://github.com/verbatim-ai/widget-website/blob/main/examples/basic.html)
 ## Full setup
 
 ```html
@@ -66,3 +66,5 @@
   });
 </script>
 ```
+
+See the [full code here](https://github.com/verbatim-ai/widget-website/blob/main/examples/advanced.html)
