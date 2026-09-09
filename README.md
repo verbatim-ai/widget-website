@@ -77,8 +77,8 @@ curl -X 'POST' \
   "ttl": 3600,
   "issuer": "widget-frontend",
   "scope": [
-    "session:read",
-    "session:create",
+    "thread:read",
+    "thread:create",
     "post:read",
     "post:create" 
   ]
